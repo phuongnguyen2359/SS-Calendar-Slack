@@ -1,4 +1,4 @@
-# Project - *SS Calendar Web*
+# Project - *SS Calendar Slack*
 
 ## User Stories
 
